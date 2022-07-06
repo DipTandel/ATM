@@ -1,0 +1,26 @@
+//ATM
+//ICS4U1, Dip Tandel
+//Oct 22, 2021
+
+public class Atm {
+  //instance variables
+  private double money;
+  
+  //mutator methods
+  public void () {
+
+  }
+  
+  //accessor methods
+  public  () {
+    return ;
+  }
+  
+  public  () {
+    return ;
+  }
+  
+  public  () {
+    return ;
+  }
+}
